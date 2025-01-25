@@ -1,0 +1,44 @@
+{
+  "name": "random-chinese",
+  "version": "1.0.0",
+  "description": "Generate a random chinese character",
+  "homepage": "https://github.com/YeIIcw/random-chinese#readme",
+  "bugs": {
+    "url": "https://github.com/YeIIcw/random-chinese/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YeIIcw/random-chinese.git"
+  },
+  "keywords": [
+    "chinese",
+    "random",
+    "chinese-character",
+    "random-chinese",
+    "chinese-unicode",
+    "unicode-cjk",
+    "random-cjk",
+    "chinese-text",
+    "cjk-generator",
+    "chinese-script",
+    "chinese-language",
+    "chinese-tools",
+    "character-generator",
+    "random-character",
+    "language-tools",
+    "unicode-generator",
+    "cjk-unicode",
+    "chinese-string",
+    "typescript-chinese",
+    "chinese-codepoints",
+    "npm-chinese-tools",
+    "cjk-support"
+  ],
+  "license": "ISC",
+  "author": "yellcw",
+  "type": "typescript",
+  "main": "random-chinese.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
